@@ -13,5 +13,5 @@ A premium, production-ready Hybrid Movie Recommendation Dashboard built using Py
 2. Trigger and launch your dedicated virtual isolation environment via command pipeline:
    ```powershell
    .\venv\Scripts\Activate.ps1
-   ## 📸 Application Interface Output
-![Dashboard Screenshot](Screenshot_14-7-2026_204456.jpeg)
+  ## 📸 Application Interface Output
+![Dashboard Screenshot](Screenshot_14-7-2026_204456_localhost.jpeg)
